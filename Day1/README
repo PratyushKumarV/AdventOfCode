@@ -1,0 +1,3 @@
+The code is pretty simple. I get the input separate the left and right lists using split().
+PUZZLE 1 : I sum the distance between each of the entries
+PUZZLE 2 : I use a set to and then the count method to carry out the given operation
