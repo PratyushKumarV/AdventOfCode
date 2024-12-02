@@ -1,0 +1,4 @@
+Initially I didn't use functions and the logic got pretty complicated for the second puzzle.
+So I had to rollback and start implementing the functions which simplified the problem multifold.
+#1 : For the fist question I have a function that checks whether the report is correct based on the logic given in the question
+#2 : For the second question if the report is not valid then I check if removing each element makes the report valid and if so I increment the count
