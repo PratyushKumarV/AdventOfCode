@@ -1,0 +1,2 @@
+# Puzzle 1 : First I get the count of all the XMAS and SAMX substrings in the given string and then I check for the cases where XMAS appears vertically and diagonally.
+# Puzzle 2 : A similar approach as the first problem. Instead of XMAS or SAMX, just MAS or SAM is used respectively.
