@@ -1,3 +1,3 @@
-# Puzzle 1 : This took me some time to figure out but eventually I did. For a long time I got the loop iterations wrong. Based on the logic given in the question I check if a given pair is present in the rules and if so I add the middle element to the sum. Otherwise I break out of the loop and then move on the next iteration.
+# Puzzle 1 : This took me some time to figure out but eventually I did. For a long time I got the loop iterations wrong. Based on the logic given in the question I check if a given pair is present in the rules and if so I add the middle element to the sum. Otherwise I break out of the loop and then move on to the next iteration.
 
 # Puzzle 2 : In this case when I encounter a case where the rules are not satisfied I simply swap the values and then after checking for all the rules, finally I add the middle element to the sum.
